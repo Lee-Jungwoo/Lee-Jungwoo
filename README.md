@@ -25,4 +25,4 @@
 
 ## Study
 
-* [**Scaling Book**](https://jax-ml.github.io/scaling-book/): How To Scale Your Model을 읽으며 roofline 분석과 행렬 샤딩을 공부했습니다.
+* <img src="https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo_250px.png" height="16" alt=""> [**Scaling Book**](https://jax-ml.github.io/scaling-book/): How To Scale Your Model을 읽으며 roofline 분석과 행렬 샤딩을 공부했습니다.
