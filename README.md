@@ -22,3 +22,7 @@
 ## Linux & Infra
 
 * <img src="https://cdn.simpleicons.org/gnubash" height="16" alt=""> [**TigerVNC-Guacamole-Installer**](https://github.com/Lee-Jungwoo/TigerVNC-Guacamole-Installer): 클라우드 Ubuntu 서버에 원격 데스크톱 환경을 10분 안에 설치하는 Bash 스크립트입니다.
+
+## Study
+
+* [**Scaling Book**](https://jax-ml.github.io/scaling-book/): 중앙대 AI 학회 CUAI에서 How To Scale Your Model을 읽으며 roofline 분석과 행렬 샤딩을 공부했습니다.
