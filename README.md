@@ -1,7 +1,10 @@
 <div align="center">
   <h3 align="center">
-    CAU CSE
+    이정우
   </h3>
+  <h5 align="center">
+    CAU CSE | blkbeansoymilk@gmail.com
+  </h5>
 </div>
 <br/>
 
