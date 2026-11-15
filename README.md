@@ -11,10 +11,10 @@
 - 'unknown' 선택지를 제거한 강제 선택 조건을 추가했을 때, 비교 가능한 20개 모델에서 두 조건 간 리더보드 순위 상관은 -0.03이었습니다. (연구실 내부 실험 결과입니다.)
 - DiscrimEval 문항 정제 파일럿: 70개 시나리오와 3개 인구통계 속성에 대해, 속성 변경이 판단과 규범적으로 무관한 문항인지 LLM 라벨러 3개로 판정했습니다. 전체 Fleiss κ는 0.65, 인종 속성은 0.43이었습니다.
 
-**[Walk-the-Talk](https://github.com/Lee-Jungwoo/Walk-the-Talk)** | 수업 프로젝트
+**[Walk-the-Talk](https://github.com/Lee-Jungwoo/Walk-the-Talk)** | 생성 AI 개론
 - PubMedQA에서 모델이 설명에 언급한 근거와 실제로 답을 바꾸는 근거가 얼마나 겹치는지를 반사실(counterfactual) 개입으로 측정했습니다.
 
-**[name-that-llm](https://github.com/Lee-Jungwoo/name-that-llm)**
+**[name-that-llm](https://github.com/Lee-Jungwoo/name-that-llm)** | 딥러닝 이론 및 실습
 - 짧은 지문의 문체만 보고 18개 LLM 중 작성 모델을 맞히는 분류 문제입니다. TF-IDF n-gram 분류기와 Qwen3-4B LoRA 분류기를 따로 학습한 뒤 보정된 로그 확률을 섞었습니다.
 
 ### 평가 데이터와 채점
