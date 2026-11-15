@@ -2,7 +2,7 @@
   <h2 align="center">
     안녕하세요!
   </h2>
-
+</div align="center">
 <br/>
 
 안녕하세요. 이정우입니다. LLM Evaluation과 Serving을 공부하고 있습니다.
