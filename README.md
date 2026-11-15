@@ -1,9 +1,8 @@
-<div align="center">
-  <h2 align="center">
-    안녕하세요!
+<div>
+  <h2>
+    이정우
   </h2>
-</div align="center">
-<br/>
+</div>
 
 안녕하세요. 이정우입니다. LLM Evaluation과 Serving을 공부하고 있습니다.
 
