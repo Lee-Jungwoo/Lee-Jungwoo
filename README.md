@@ -1,10 +1,7 @@
 <div align="center">
-  <h3 align="center">
-    이정우
-  </h3>
-  <h5 align="center">
-    CAU CSE | blkbeansoymilk@gmail.com
-  </h5>
+  <h2 align="center">
+    안녕하세요! 이정우입니다.
+  </h2>
 </div>
 <br/>
 
