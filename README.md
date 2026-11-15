@@ -1,13 +1,11 @@
 <div align="center">
-  <p align="center">
-    중앙대학교 소프트웨어학부 3학년 •
-    <a href="https://github.com/CUAI-CAU">CUAI</a> •
-    <a href="https://github.com/capstone-privai">capstone-privai</a>
-  </p>
+  <h3 align="center">
+    CAU CSE
+  </h3>
 </div>
 <br/>
 
-안녕하세요, 이정우입니다. LLM 평가와 추론 서빙을 공부하고 있습니다.
+안녕하세요, 이정우입니다. LLM Evaluation과 Inference Engineering을 공부하고 있습니다.
 
 ## LLM eval
 
@@ -23,6 +21,3 @@
 ## Linux & Infra
 
 * [**TigerVNC-Guacamole-Installer**](https://github.com/Lee-Jungwoo/TigerVNC-Guacamole-Installer): 클라우드 Ubuntu 서버에 원격 데스크톱 환경을 10분 안에 설치하는 Bash 스크립트입니다.
-* **폐쇄망 웹앱 유지보수**: 공군 복무 중 인터넷이 차단된 환경에서 업무용 Flask 웹앱을 1년간 혼자 유지보수했습니다.
-* **커널 모듈 포팅**: 연구용 파일시스템 커널 모듈을 Linux 6.6에서 7.2로 포팅하고 있습니다. (수업 팀 과제)
-* **CUAI 스터디**: Scaling Book을 공부하고 PagedAttention 논문을 리뷰했습니다.
