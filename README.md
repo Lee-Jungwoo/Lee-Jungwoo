@@ -20,6 +20,8 @@
 ## Projects
 
 * [**Mosaic-Credential 평가 데이터**](https://github.com/capstone-privai/promptguard-data): 코딩 에이전트의 비밀값 마스킹 도구를 평가합니다. 마스킹으로 비밀 노출은 77%에서 15%로 줄고, 과제 성공률은 99%에서 90%로 낮아졌습니다. (캡스톤, 진행 중)
+* [**ReDO**](https://github.com/REDO-Team/Back): AI로 분리배출 방법을 알려주고, 인증하면 보상을 주는 서비스입니다. 백엔드에서 커뮤니티(게시글, 댓글, 좋아요, 이미지 업로드) API를 맡았습니다. (Spring Boot)
+* [**야구원정대**](https://github.com/BaseballTour): 야구 직관과 주변 관광을 묶어 주는 여행 플래너 앱입니다. 프론트엔드를 개발했습니다. (React, Ionic)
 
 ## Linux & Infra
 
