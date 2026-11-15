@@ -5,7 +5,7 @@
 </div>
 <br/>
 
-안녕하세요, 이정우입니다. LLM Evaluation과 Inference Engineering을 공부하고 있습니다.
+LLM Evaluation과 Inference Engineering을 공부하고 있습니다.
 
 ## LLM eval
 
