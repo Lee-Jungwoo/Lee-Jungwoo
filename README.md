@@ -25,4 +25,4 @@
 
 ## Study
 
-* [**Scaling Book**](https://jax-ml.github.io/scaling-book/): 중앙대 AI 학회 CUAI에서 How To Scale Your Model을 읽으며 roofline 분석과 행렬 샤딩을 공부했습니다.
+* [**Scaling Book**](https://jax-ml.github.io/scaling-book/): How To Scale Your Model을 읽으며 roofline 분석과 행렬 샤딩을 공부했습니다.
