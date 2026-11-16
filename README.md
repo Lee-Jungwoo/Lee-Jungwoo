@@ -1,7 +1,7 @@
 <div>
-  <h2>
+  <h1>
     Hi, I'm
-  </h2>
+  </h1>
 </div>
 
 안녕하세요. 이정우입니다. LLM Evaluation, LLM Serving, 웹 백엔드를 공부하고 있습니다.
