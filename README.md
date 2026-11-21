@@ -26,3 +26,4 @@ LLM Evaluation, LLM Serving, 웹 백엔드를 공부하고 있습니다.
 ## Study
 
 * <img src="https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo_250px.png" height="16" alt=""> [**Scaling Book**](https://jax-ml.github.io/scaling-book/): How To Scale Your Model을 읽으며 roofline 분석과 행렬 샤딩을 공부했습니다.
+* <img src="https://cdn.simpleicons.org/nvidia" height="16" alt=""> [**LLM Parallelism 노트**](https://github.com/Lee-Jungwoo/llm-systems-notes/blob/main/parallelism.md): DP, TP, PP와 ZeRO, CP, EP 등 병렬화 방식을 무엇을 쪼개고 어떤 통신을 하는지 기준으로 정리하고, 학습과 서빙에서 달라지는 점을 비교했습니다.
